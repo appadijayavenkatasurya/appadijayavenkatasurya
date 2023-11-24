@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @appadijayavenkatasurya
-- 👀 I’m interested in DevOps Engineer
-- 🌱 I’m currently learning Git and Github
-- 💞️ I’m looking to collaborate on hands-on projects
+- 👀 DevOps Engineer
+- 🌱 Git and Github
+- 💞️ collaborates hands-on projects
 - 📫 How to reach me https://github.com/appadijayavenkatasurya
 
 <!---
