@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @appadijayavenkatasurya
-- 👀 DevOps Engineer
+- 👀 Test Automation Engineer
 - 🌱 Git and Github
 - 💞️ collaborates hands-on projects
 - 📫 How to reach me https://github.com/appadijayavenkatasurya
